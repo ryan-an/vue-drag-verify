@@ -4,7 +4,7 @@
 * 自动适配浏览器缩放、不同分辨率屏幕  
 ##### 使用方法
 1.引入包  
-
+`安装插件：npm install vue-drag-verify --save  `
 ```
   import dragVerify from "@/components/dragVerify";
   components{
